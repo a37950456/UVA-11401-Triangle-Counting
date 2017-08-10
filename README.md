@@ -1,1 +1,0 @@
-# UVA-11401-Triangle-Counting
